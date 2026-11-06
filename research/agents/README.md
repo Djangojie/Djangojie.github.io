@@ -16,6 +16,7 @@
 | 证据与评价 | 技能有没有用，为什么不同基准会给出不同结果？ | [两组论文的阅读卡](notes/papers-and-evidence.md) |
 | 工程实践 | 怎样拆依赖、环境和验收？ | [作业进度与实验计划](notes/assignment-and-environment.md) |
 | 个人问题 | 为什么简单的回复任务会变成复杂软件？ | [问题与工程反思](notes/questions-and-engineering.md) |
+| 原始速记 | 当时记下了什么，哪些说法还需校正？ | [Obsidian 速记与校正](notes/personal-fragments.md) |
 
 在线入口：[学习导航](https://djangojie.github.io/research/agents/)，[本轮博客](https://djangojie.github.io/posts/from-attention-to-reliable-agents/)。GitHub 文件预览不会执行 HTML；在线页面或下载后本地打开均可交互。
 

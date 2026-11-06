@@ -70,6 +70,8 @@ toc: true
 
 ## 以后怎样继续积累
 
+Obsidian 中，我还记下了滑动窗口、线性注意力、DeltaNet、分页 KV cache 和两类技能基准的短句。这些原始速记保留了当时的直觉，也有容易过度概括的地方。例如“基本没有提升”不等于所有技能都无用，“固定大小状态”也不等于能无损记住任意历史。现在将原话、校正与下次验证方式放在 [个人速记整理](https://github.com/Djangojie/Djangojie.github.io/blob/main/research/agents/notes/personal-fragments.md)，保留理解变化的过程。
+
 每份材料都应留下三样东西：它回答的问题、支持结论的来源，以及可以验证理解的小任务。笔记负责保存当前判断，实验负责纠正它；不会把下载了课件、看过导读或环境安装成功写成完成研究。
 
 所有入口集中在 [学习导航](/research/agents/)；源文件、生成脚本、来源版本与后续问题放在 [GitHub 资料目录](https://github.com/Djangojie/Djangojie.github.io/tree/main/research/agents)。

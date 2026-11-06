@@ -35,8 +35,8 @@
     },
     {
       "path": "research/agents/index.html",
-      "bytes": 3929,
-      "sha256": "bf2364e3bbfe0b261ecc901e37d107144e4b9fa8a7ac4f73346d5a2c0036dba5"
+      "bytes": 4119,
+      "sha256": "43e7ef1679d770b01c99db9a830171cd4dcf0efa502e1e4fc829cbe5cbc5e49f"
     },
     {
       "path": "research/agents/notes/assignment-and-environment.md",
@@ -64,14 +64,19 @@
       "sha256": "e7f6c8d3bb88aaaa265281e4f3c90c58aeda88b7ba7554b337e418855c5089b2"
     },
     {
+      "path": "research/agents/notes/personal-fragments.md",
+      "bytes": 3251,
+      "sha256": "b3599f3d96baae31b7413aa6d556abd82386ae1d93bd2d8752c9f2a88b3333ee"
+    },
+    {
       "path": "research/agents/notes/questions-and-engineering.md",
       "bytes": 4488,
       "sha256": "92d6041ac6c589f8eda94b7a061427ed84488a27e053afb0f114e1a3ae161e2d"
     },
     {
       "path": "research/agents/README.md",
-      "bytes": 3768,
-      "sha256": "f6112cc3ff740d93e95ba3ff3bea0b68ac3f89613b1349c1176abe3da54a9af4"
+      "bytes": 3897,
+      "sha256": "af0f512016c16b7e44c6051490acec68e1bd5d782eadd92155083b42a20d02f5"
     },
     {
       "path": "research/agents/scripts/build_beginner_guides.py",
@@ -85,13 +90,13 @@
     },
     {
       "path": "research/agents/sources.md",
-      "bytes": 3129,
-      "sha256": "8e5ee22b23f95a175b63b98f5b3914b604b40db18c1f73da709da29b81681675"
+      "bytes": 3275,
+      "sha256": "9b73a5a5d9867a4935115e1a9c0a93e43a86b1f917687dcd03ad95dc9b52a9ec"
     },
     {
       "path": "_posts/2026-11-07-from-attention-to-reliable-agents.md",
-      "bytes": 6445,
-      "sha256": "5376805bef5a9472ad9a2faec14214589f01ed6d73e6d922b7a58b4049372c83"
+      "bytes": 6989,
+      "sha256": "e47b745b3f10df385c2c48a4ed82060caee9f63bcb9ae21cbec7fc93dce76e82"
     }
   ]
 }
