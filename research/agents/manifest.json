@@ -2,6 +2,7 @@
   "study_period": "2026-11-06 to early 2026-11-07 Asia/Shanghai",
   "repository": "Djangojie/Djangojie.github.io",
   "scope": "AI-assisted learning synthesis, original teaching HTML, course notes and evidence boundaries",
+  "hash_basis": "UTF-8 with LF line endings, matching Git repository text blobs",
   "excluded": [
     "original PDFs",
     "assignment source and solutions",
@@ -14,23 +15,23 @@
   "files": [
     {
       "path": "research/agents/guides/attention-advanced.html",
-      "bytes": 25204,
-      "sha256": "5e67b092dda0d0edb4db489fac1c4b2147b57b38443c82730904fea13fc16a98"
+      "bytes": 25186,
+      "sha256": "90d8cb0b1b469a7d6c733a36e9a01c5bbcdafabb7267e26e8e9a7f515141f8e7"
     },
     {
       "path": "research/agents/guides/attention-reading.html",
-      "bytes": 22168,
-      "sha256": "997003398e14683bb84b8b28768cadc9d4c4bd2fd5eac050f1bed432e3123b16"
+      "bytes": 22151,
+      "sha256": "e1fe36beffc71a4ce81ef9ce447ffb0184381b72ad220c081fbe2529deac969f"
     },
     {
       "path": "research/agents/guides/compression-advanced.html",
-      "bytes": 22104,
-      "sha256": "6d160879ec00dfd4aa14f9cec38d20c2c715235abc3e03709e623062f31f5300"
+      "bytes": 22089,
+      "sha256": "67bdf056af5608bf3d72ec58dfb5e7a3f965d01fb7467ad32a348eb90f2899a0"
     },
     {
       "path": "research/agents/guides/compression-reading.html",
-      "bytes": 12091,
-      "sha256": "62c76e63115e08c2d4d78b378b44c610183828d38ecc9b75b6ab318af29329ba"
+      "bytes": 12083,
+      "sha256": "9c03ea2f8303963397dbb61b807db0bb83172c1cce6103456aa0f87262f1eda9"
     },
     {
       "path": "research/agents/index.html",
