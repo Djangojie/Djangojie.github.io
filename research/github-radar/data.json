@@ -1,0 +1,211 @@
+{
+  "schema_version": 1,
+  "checked_at": "2026-11-08T11:43:00+08:00",
+  "scope": "AI Agent、开发效率、自动化与学习；精选样本，不是 GitHub 全站榜单",
+  "methodology": {
+    "repository_rank": "所选样本按 GitHub REST API 累计 stargazers_count 降序",
+    "skill_rank": "按排错、验证、开源协作、实验与展示用途人工推荐；不是客观质量排行",
+    "skill_popularity": "仅统计技能所在仓库的 Star，不视为单个 Skill 的 Star",
+    "trend_limit": "Trending 返回缓存页面，未采用其今日增长数；首日只有基线，不计算 24 小时增量",
+    "validation": "核对仓库元数据、README 和各 Skill 的 SKILL.md；未安装或运行推荐项"
+  },
+  "repositories": [
+    {
+      "repo": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "stars": 261544,
+      "pushed_at": "2026-11-08T03:41:37Z",
+      "archived": false,
+      "license": "MIT",
+      "metadata_url": "https://api.github.com/repos/NousResearch/hermes-agent",
+      "readme_url": "https://github.com/NousResearch/hermes-agent/blob/main/README.md",
+      "description": "带记忆、工具调用和技能机制的通用 Agent。",
+      "relevance": "观察长期任务、记忆和技能如何组合。",
+      "next_step": "先读记忆和技能的实现，再用一个小任务验证。",
+      "limitations": "模型调用及服务器可能收费；自改进是项目设计主张，本次未做效果验证。"
+    },
+    {
+      "repo": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "stars": 209779,
+      "pushed_at": "2026-11-08T02:33:06Z",
+      "archived": false,
+      "license": "NOASSERTION",
+      "metadata_url": "https://api.github.com/repos/n8n-io/n8n",
+      "readme_url": "https://github.com/n8n-io/n8n/blob/master/README.md",
+      "description": "把不同应用串成流程的可视化自动化平台，支持 AI 步骤和代码。",
+      "relevance": "可用于资讯收集、表单处理和重复工作。",
+      "next_step": "先画出一个输入到输出的流程，再决定是否搭建。",
+      "limitations": "自托管需要维护服务；使用 fair-code 授权，商业用途应查看具体条款。"
+    },
+    {
+      "repo": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "stars": 160637,
+      "pushed_at": "2026-11-08T03:36:14Z",
+      "archived": false,
+      "license": "NOASSERTION",
+      "metadata_url": "https://api.github.com/repos/langgenius/dify",
+      "readme_url": "https://github.com/langgenius/dify/blob/main/README.md",
+      "description": "搭建 AI 应用、知识库检索和 Agent 工作流的平台。",
+      "relevance": "适合快速验证教学助手或知识问答原型。",
+      "next_step": "先用少量公开资料测试问答，记录错误答案。",
+      "limitations": "自托管需要 Docker 等依赖；许可证附加条件，模型调用费用另计。"
+    },
+    {
+      "repo": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "stars": 144130,
+      "pushed_at": "2026-11-06T05:53:36Z",
+      "archived": false,
+      "license": "Apache-2.0",
+      "metadata_url": "https://api.github.com/repos/Shubhamsaboo/awesome-llm-apps",
+      "readme_url": "https://github.com/Shubhamsaboo/awesome-llm-apps/blob/main/README.md",
+      "description": "汇集 AI Agent、技能与检索增强应用的示例代码。",
+      "relevance": "可寻找小实验题目，对照工具调用和评测方法。",
+      "next_step": "挑一个最小示例读代码，记录依赖和成功标准。",
+      "limitations": "仓库的测试声明是作者描述；本次未运行示例，API 与依赖成本因示例而异。"
+    },
+    {
+      "repo": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "stars": 120274,
+      "pushed_at": "2026-11-08T03:09:37Z",
+      "archived": false,
+      "license": "MIT",
+      "metadata_url": "https://api.github.com/repos/browser-use/browser-use",
+      "readme_url": "https://github.com/browser-use/browser-use/blob/main/README.md",
+      "description": "让 AI 通过代码操作浏览器，完成网页上的多步任务。",
+      "relevance": "适合研究网页工具调用、执行失败和恢复。",
+      "next_step": "先用无登录的公开网页测试一次导航和提取。",
+      "limitations": "需要模型与浏览器环境；云服务另行收费，本次未验证浏览器操作成功率。"
+    },
+    {
+      "repo": "microsoft/ai-agents-for-beginners",
+      "url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "stars": 79133,
+      "pushed_at": "2026-11-07T04:51:12Z",
+      "archived": false,
+      "license": "MIT",
+      "metadata_url": "https://api.github.com/repos/microsoft/ai-agents-for-beginners",
+      "readme_url": "https://github.com/microsoft/ai-agents-for-beginners/blob/main/README.md",
+      "description": "面向初学者的 AI Agent 课程与代码示例。",
+      "relevance": "可把 Agent 概念、设计模式与动手练习连起来。",
+      "next_step": "选一课完成示例，并写下输入、工具和验收方式。",
+      "limitations": "阅读免费；部分练习需要服务账号或模型额度，本次未运行课程代码。"
+    }
+  ],
+  "skill_sources": [
+    {
+      "repo": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "stars": 314167,
+      "pushed_at": "2026-11-03T23:24:58Z",
+      "metadata_url": "https://api.github.com/repos/obra/superpowers"
+    },
+    {
+      "repo": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "stars": 188874,
+      "pushed_at": "2026-11-06T22:32:32Z",
+      "metadata_url": "https://api.github.com/repos/anthropics/skills"
+    },
+    {
+      "repo": "openai/skills",
+      "url": "https://github.com/openai/skills",
+      "stars": 28588,
+      "pushed_at": "2026-10-28T17:31:41Z",
+      "metadata_url": "https://api.github.com/repos/openai/skills"
+    }
+  ],
+  "skills": [
+    {
+      "rank": 1,
+      "name": "systematic-debugging",
+      "repo": "obra/superpowers",
+      "path": "skills/systematic-debugging/SKILL.md",
+      "url": "https://github.com/obra/superpowers/blob/main/skills/systematic-debugging/SKILL.md",
+      "description": "先复现、收集证据、找出根因，再修复问题。",
+      "relevance": "排查安装、环境、测试失败时很实用。",
+      "limitations": "较强的流程约束，小问题可按任务范围使用。",
+      "validation": "已读说明；未安装、未运行；可用性不等于实测效果"
+    },
+    {
+      "rank": 2,
+      "name": "verification-before-completion",
+      "repo": "obra/superpowers",
+      "path": "skills/verification-before-completion/SKILL.md",
+      "url": "https://github.com/obra/superpowers/blob/main/skills/verification-before-completion/SKILL.md",
+      "description": "要求完成声明附带最新验证证据。",
+      "relevance": "减少“改了代码就说修好了”的错误汇报。",
+      "limitations": "可能增加检查步骤；须选择与改动相称的验证。",
+      "validation": "已读说明；未安装、未运行；可用性不等于实测效果"
+    },
+    {
+      "rank": 3,
+      "name": "gh-fix-ci",
+      "repo": "openai/skills",
+      "path": "skills/.curated/gh-fix-ci/SKILL.md",
+      "url": "https://github.com/openai/skills/blob/main/skills/.curated/gh-fix-ci/SKILL.md",
+      "description": "读取 GitHub Actions 失败日志，定位 PR 自动检查失败。",
+      "relevance": "适合维护开源 PR 与博客部署。",
+      "limitations": "需要 gh 登录及仓库访问；技能包含确认修复方案的步骤。",
+      "validation": "已读说明；未安装、未运行；可用性不等于实测效果"
+    },
+    {
+      "rank": 4,
+      "name": "gh-address-comments",
+      "repo": "openai/skills",
+      "path": "skills/.curated/gh-address-comments/SKILL.md",
+      "url": "https://github.com/openai/skills/blob/main/skills/.curated/gh-address-comments/SKILL.md",
+      "description": "整理 PR 的审阅意见并处理选定评论。",
+      "relevance": "帮助跟进开源协作中的审阅反馈。",
+      "limitations": "需要 gh 登录；技能会询问要处理哪些意见。",
+      "validation": "已读说明；未安装、未运行；可用性不等于实测效果"
+    },
+    {
+      "rank": 5,
+      "name": "jupyter-notebook",
+      "repo": "openai/skills",
+      "path": "skills/.curated/jupyter-notebook/SKILL.md",
+      "url": "https://github.com/openai/skills/blob/main/skills/.curated/jupyter-notebook/SKILL.md",
+      "description": "通过模板生成和整理可复现的实验或教学笔记本。",
+      "relevance": "适合 Agent 评测实验与数据教学。",
+      "limitations": "运行需要 Python/Jupyter 依赖；必须区分已执行和仅生成。",
+      "validation": "已读说明；未安装、未运行；可用性不等于实测效果"
+    },
+    {
+      "rank": 6,
+      "name": "playwright",
+      "repo": "openai/skills",
+      "path": "skills/.curated/playwright/SKILL.md",
+      "url": "https://github.com/openai/skills/blob/main/skills/.curated/playwright/SKILL.md",
+      "description": "通过浏览器快照、导航和截图执行网页操作。",
+      "relevance": "适合验证博客或网页原型的真实界面。",
+      "limitations": "依赖 Node/npm 和浏览器；当前脚本使用 shell wrapper，Windows 适配需验证。",
+      "validation": "已读说明；未安装、未运行；可用性不等于实测效果"
+    },
+    {
+      "rank": 7,
+      "name": "mcp-builder",
+      "repo": "anthropics/skills",
+      "path": "skills/mcp-builder/SKILL.md",
+      "url": "https://github.com/anthropics/skills/blob/main/skills/mcp-builder/SKILL.md",
+      "description": "指导构建 MCP 服务，让模型以工具方式访问外部系统。",
+      "relevance": "适合学习 Agent 工具接口与错误处理。",
+      "limitations": "需要编程和 SDK 环境；迁移到 Codex 时应核对宿主特有工具。",
+      "validation": "已读说明；未安装、未运行；可用性不等于实测效果"
+    },
+    {
+      "rank": 8,
+      "name": "frontend-design",
+      "repo": "anthropics/skills",
+      "path": "skills/frontend-design/SKILL.md",
+      "url": "https://github.com/anthropics/skills/blob/main/skills/frontend-design/SKILL.md",
+      "description": "指导网页的版式、字体和视觉风格设计。",
+      "relevance": "适合博客、教学页面和项目展示。",
+      "limitations": "属于设计指引；不保证可访问性或功能正确，仍需实际检查。",
+      "validation": "已读说明；未安装、未运行；可用性不等于实测效果"
+    }
+  ]
+}
