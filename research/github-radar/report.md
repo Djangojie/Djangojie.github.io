@@ -1,17 +1,18 @@
-# GitHub 项目与 Skills 雷达 · 2026-11-08
+# GitHub 项目与 Skills 雷达 · 2026-11-09
 
-采集时间：2026-11-08T11:43:00+08:00。已核对说明，未安装或运行。
+采集时间：2026-11-09T15:31:23+08:00。已核对说明，未安装或运行。
 
 ## 精选仓库累计 Star 排名
 
 | 排名 | 仓库 | Star | 做了什么 |
 | --- | --- | ---: | --- |
-| 1 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 261,544 | 带记忆、工具调用和技能机制的通用 Agent。 |
-| 2 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | 209,779 | 把不同应用串成流程的可视化自动化平台，支持 AI 步骤和代码。 |
-| 3 | [langgenius/dify](https://github.com/langgenius/dify) | 160,637 | 搭建 AI 应用、知识库检索和 Agent 工作流的平台。 |
-| 4 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 144,130 | 汇集 AI Agent、技能与检索增强应用的示例代码。 |
-| 5 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | 120,274 | 让 AI 通过代码操作浏览器，完成网页上的多步任务。 |
-| 6 | [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 79,133 | 面向初学者的 AI Agent 课程与代码示例。 |
+| 1 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 261,853 | 带记忆、工具调用和技能机制的通用 Agent。 |
+| 2 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | 209,882 | 把不同应用串成流程的可视化自动化平台，支持 AI 步骤和代码。 |
+| 3 | [langgenius/dify](https://github.com/langgenius/dify) | 160,722 | 搭建 AI 应用、知识库检索和 Agent 工作流的平台。 |
+| 4 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 144,239 | 汇集 AI Agent、技能与检索增强应用的示例代码。 |
+| 5 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | 120,380 | 让 AI 通过代码操作浏览器，完成网页上的多步任务。 |
+| 6 | [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 79,232 | 面向初学者的 AI Agent 课程与代码示例。 |
+| 7 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 37,175 | 记录 Agent 的模型调用与执行轨迹，支持成本观察、数据集实验和评测。 |
 
 ## Skills 推荐顺序
 
@@ -25,6 +26,7 @@
 | 6 | [playwright](https://github.com/openai/skills/blob/main/skills/.curated/playwright/SKILL.md) | 通过浏览器快照、导航和截图执行网页操作。 | 依赖 Node/npm 和浏览器；当前脚本使用 shell wrapper，Windows 适配需验证。 |
 | 7 | [mcp-builder](https://github.com/anthropics/skills/blob/main/skills/mcp-builder/SKILL.md) | 指导构建 MCP 服务，让模型以工具方式访问外部系统。 | 需要编程和 SDK 环境；迁移到 Codex 时应核对宿主特有工具。 |
 | 8 | [frontend-design](https://github.com/anthropics/skills/blob/main/skills/frontend-design/SKILL.md) | 指导网页的版式、字体和视觉风格设计。 | 属于设计指引；不保证可访问性或功能正确，仍需实际检查。 |
+| 9 | [huashu-design](https://github.com/alchaincyf/huashu-design/blob/master/SKILL.md) | 用 HTML 设计幻灯片、原型和信息图，提供可编辑 PPTX 导出流程。 | 技能强制先给多个设计方向，会增加交互；完整依赖配套素材和脚本，需检查中文字体与 PPTX 导出保真度。MIT；模型调用可能收费。 |
 
 ## 排名说明
 
@@ -34,6 +36,6 @@
 
 仅统计技能所在仓库的 Star，不视为单个 Skill 的 Star
 
-Trending 返回缓存页面，未采用其今日增长数；首日只有基线，不计算 24 小时增量
+与 2026-11-08T11:43:00+08:00 快照比较；实际间隔约 27.8 小时，不冒充严格 24 小时增长。未使用 Trending 缓存榜单。
 
 核对仓库元数据、README 和各 Skill 的 SKILL.md；未安装或运行推荐项

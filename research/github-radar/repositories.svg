@@ -1,31 +1,35 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 587" role="img" aria-labelledby="title desc">
-<title id="title">热门仓库 · 累计 Star 排名</title><desc id="desc">2026-11-08 / 精选样本 / 线性刻度，起点为 0。NousResearch/hermes-agent: 261,544 Stars；n8n-io/n8n: 209,779 Stars；langgenius/dify: 160,637 Stars；Shubhamsaboo/awesome-llm-apps: 144,130 Stars；browser-use/browser-use: 120,274 Stars；microsoft/ai-agents-for-beginners: 79,133 Stars</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 657" role="img" aria-labelledby="title desc">
+<title id="title">热门仓库 · 累计 Star 排名</title><desc id="desc">2026-11-09 / 精选样本 / 线性刻度，起点为 0。NousResearch/hermes-agent: 261,853 Stars；n8n-io/n8n: 209,882 Stars；langgenius/dify: 160,722 Stars；Shubhamsaboo/awesome-llm-apps: 144,239 Stars；browser-use/browser-use: 120,380 Stars；microsoft/ai-agents-for-beginners: 79,232 Stars；langfuse/langfuse: 37,175 Stars</desc>
 <rect width="100%" height="100%" rx="20" fill="#f5f3ed"/>
 <g font-family="Segoe UI,Microsoft YaHei,Arial,sans-serif" fill="#152d35">
 <text x="28" y="42" font-size="25" font-weight="700">热门仓库 · 累计 Star 排名</text>
-<text x="28" y="72" font-size="15" fill="#52676d">2026-11-08 / 精选样本 / 线性刻度，起点为 0</text>
+<text x="28" y="72" font-size="15" fill="#52676d">2026-11-09 / 精选样本 / 线性刻度，起点为 0</text>
 <text x="28" y="145" font-size="16">01  NousResearch/hermes-agent</text>
 <rect x="395" y="125" width="460" height="30" rx="5" fill="#e0e5df"/>
 <rect x="395" y="125" width="460.0" height="30" rx="5" fill="#1c6970"/>
-<text x="875" y="146" font-size="17">261,544</text>
+<text x="875" y="146" font-size="17">261,853</text>
 <text x="28" y="215" font-size="16">02  n8n-io/n8n</text>
 <rect x="395" y="195" width="460" height="30" rx="5" fill="#e0e5df"/>
-<rect x="395" y="195" width="369.0" height="30" rx="5" fill="#40858a"/>
-<text x="875" y="216" font-size="17">209,779</text>
+<rect x="395" y="195" width="368.7" height="30" rx="5" fill="#40858a"/>
+<text x="875" y="216" font-size="17">209,882</text>
 <text x="28" y="285" font-size="16">03  langgenius/dify</text>
 <rect x="395" y="265" width="460" height="30" rx="5" fill="#e0e5df"/>
-<rect x="395" y="265" width="282.5" height="30" rx="5" fill="#639da0"/>
-<text x="875" y="286" font-size="17">160,637</text>
+<rect x="395" y="265" width="282.3" height="30" rx="5" fill="#639da0"/>
+<text x="875" y="286" font-size="17">160,722</text>
 <text x="28" y="355" font-size="16">04  Shubhamsaboo/awesome-llm-apps</text>
 <rect x="395" y="335" width="460" height="30" rx="5" fill="#e0e5df"/>
-<rect x="395" y="335" width="253.5" height="30" rx="5" fill="#639da0"/>
-<text x="875" y="356" font-size="17">144,130</text>
+<rect x="395" y="335" width="253.4" height="30" rx="5" fill="#639da0"/>
+<text x="875" y="356" font-size="17">144,239</text>
 <text x="28" y="425" font-size="16">05  browser-use/browser-use</text>
 <rect x="395" y="405" width="460" height="30" rx="5" fill="#e0e5df"/>
 <rect x="395" y="405" width="211.5" height="30" rx="5" fill="#639da0"/>
-<text x="875" y="426" font-size="17">120,274</text>
+<text x="875" y="426" font-size="17">120,380</text>
 <text x="28" y="495" font-size="16">06  microsoft/ai-agents-for-beginners</text>
 <rect x="395" y="475" width="460" height="30" rx="5" fill="#e0e5df"/>
 <rect x="395" y="475" width="139.2" height="30" rx="5" fill="#639da0"/>
-<text x="875" y="496" font-size="17">79,133</text>
+<text x="875" y="496" font-size="17">79,232</text>
+<text x="28" y="565" font-size="16">07  langfuse/langfuse</text>
+<rect x="395" y="545" width="460" height="30" rx="5" fill="#e0e5df"/>
+<rect x="395" y="545" width="65.3" height="30" rx="5" fill="#639da0"/>
+<text x="875" y="566" font-size="17">37,175</text>
 </g></svg>

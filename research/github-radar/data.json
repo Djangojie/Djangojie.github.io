@@ -1,20 +1,20 @@
 {
   "schema_version": 1,
-  "checked_at": "2026-11-08T11:43:00+08:00",
+  "checked_at": "2026-11-09T15:31:23+08:00",
   "scope": "AI Agent、开发效率、自动化与学习；精选样本，不是 GitHub 全站榜单",
   "methodology": {
     "repository_rank": "所选样本按 GitHub REST API 累计 stargazers_count 降序",
     "skill_rank": "按排错、验证、开源协作、实验与展示用途人工推荐；不是客观质量排行",
     "skill_popularity": "仅统计技能所在仓库的 Star，不视为单个 Skill 的 Star",
-    "trend_limit": "Trending 返回缓存页面，未采用其今日增长数；首日只有基线，不计算 24 小时增量",
+    "trend_limit": "与 2026-11-08T11:43:00+08:00 快照比较；实际间隔约 27.8 小时，不冒充严格 24 小时增长。未使用 Trending 缓存榜单。",
     "validation": "核对仓库元数据、README 和各 Skill 的 SKILL.md；未安装或运行推荐项"
   },
   "repositories": [
     {
       "repo": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 261544,
-      "pushed_at": "2026-11-08T03:41:37Z",
+      "stars": 261853,
+      "pushed_at": "2026-11-09T07:21:18Z",
       "archived": false,
       "license": "MIT",
       "metadata_url": "https://api.github.com/repos/NousResearch/hermes-agent",
@@ -27,8 +27,8 @@
     {
       "repo": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "stars": 209779,
-      "pushed_at": "2026-11-08T02:33:06Z",
+      "stars": 209882,
+      "pushed_at": "2026-11-09T07:26:14Z",
       "archived": false,
       "license": "NOASSERTION",
       "metadata_url": "https://api.github.com/repos/n8n-io/n8n",
@@ -41,8 +41,8 @@
     {
       "repo": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "stars": 160637,
-      "pushed_at": "2026-11-08T03:36:14Z",
+      "stars": 160722,
+      "pushed_at": "2026-11-09T07:28:40Z",
       "archived": false,
       "license": "NOASSERTION",
       "metadata_url": "https://api.github.com/repos/langgenius/dify",
@@ -55,8 +55,8 @@
     {
       "repo": "Shubhamsaboo/awesome-llm-apps",
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "stars": 144130,
-      "pushed_at": "2026-11-06T05:53:36Z",
+      "stars": 144239,
+      "pushed_at": "2026-11-08T17:14:10Z",
       "archived": false,
       "license": "Apache-2.0",
       "metadata_url": "https://api.github.com/repos/Shubhamsaboo/awesome-llm-apps",
@@ -69,8 +69,8 @@
     {
       "repo": "browser-use/browser-use",
       "url": "https://github.com/browser-use/browser-use",
-      "stars": 120274,
-      "pushed_at": "2026-11-08T03:09:37Z",
+      "stars": 120380,
+      "pushed_at": "2026-11-09T07:22:49Z",
       "archived": false,
       "license": "MIT",
       "metadata_url": "https://api.github.com/repos/browser-use/browser-use",
@@ -83,7 +83,7 @@
     {
       "repo": "microsoft/ai-agents-for-beginners",
       "url": "https://github.com/microsoft/ai-agents-for-beginners",
-      "stars": 79133,
+      "stars": 79232,
       "pushed_at": "2026-11-07T04:51:12Z",
       "archived": false,
       "license": "MIT",
@@ -93,27 +93,48 @@
       "relevance": "可把 Agent 概念、设计模式与动手练习连起来。",
       "next_step": "选一课完成示例，并写下输入、工具和验收方式。",
       "limitations": "阅读免费；部分练习需要服务账号或模型额度，本次未运行课程代码。"
+    },
+    {
+      "repo": "langfuse/langfuse",
+      "url": "https://github.com/langfuse/langfuse",
+      "stars": 37175,
+      "pushed_at": "2026-11-09T03:29:39Z",
+      "archived": false,
+      "license": "MIT，ee 目录除外",
+      "metadata_url": "https://api.github.com/repos/langfuse/langfuse",
+      "readme_url": "https://github.com/langfuse/langfuse/blob/main/README.md",
+      "description": "记录 Agent 的模型调用与执行轨迹，支持成本观察、数据集实验和评测。",
+      "relevance": "给 Agent 项目建立可复核的调用记录与评测证据。",
+      "next_step": "先读追踪与数据集评测示例，用无敏感数据的小任务对比两种方案。",
+      "limitations": "需接入 SDK 或追踪接口；自托管需服务环境，云服务及评测模型可能收费。MIT 不覆盖 ee 目录；本次未安装实测。"
     }
   ],
   "skill_sources": [
     {
       "repo": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "stars": 314167,
+      "stars": 314721,
       "pushed_at": "2026-11-03T23:24:58Z",
       "metadata_url": "https://api.github.com/repos/obra/superpowers"
     },
     {
       "repo": "anthropics/skills",
       "url": "https://github.com/anthropics/skills",
-      "stars": 188874,
+      "stars": 189947,
       "pushed_at": "2026-11-06T22:32:32Z",
       "metadata_url": "https://api.github.com/repos/anthropics/skills"
     },
     {
+      "repo": "alchaincyf/huashu-design",
+      "url": "https://github.com/alchaincyf/huashu-design",
+      "stars": 29008,
+      "pushed_at": "2026-11-04T03:28:47Z",
+      "metadata_url": "https://api.github.com/repos/alchaincyf/huashu-design"
+    },
+    {
       "repo": "openai/skills",
       "url": "https://github.com/openai/skills",
-      "stars": 28588,
+      "stars": 28604,
       "pushed_at": "2026-10-28T17:31:41Z",
       "metadata_url": "https://api.github.com/repos/openai/skills"
     }
@@ -206,6 +227,17 @@
       "relevance": "适合博客、教学页面和项目展示。",
       "limitations": "属于设计指引；不保证可访问性或功能正确，仍需实际检查。",
       "validation": "已读说明；未安装、未运行；可用性不等于实测效果"
+    },
+    {
+      "rank": 9,
+      "name": "huashu-design",
+      "repo": "alchaincyf/huashu-design",
+      "path": "SKILL.md",
+      "url": "https://github.com/alchaincyf/huashu-design/blob/master/SKILL.md",
+      "description": "用 HTML 设计幻灯片、原型和信息图，提供可编辑 PPTX 导出流程。",
+      "relevance": "对比不同视觉方向，制作可继续编辑的演示稿。",
+      "limitations": "技能强制先给多个设计方向，会增加交互；完整依赖配套素材和脚本，需检查中文字体与 PPTX 导出保真度。MIT；模型调用可能收费。",
+      "validation": "已读 README 与 SKILL.md，未安装或运行；不代表经过效果测评。"
     }
   ]
 }
