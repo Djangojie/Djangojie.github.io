@@ -1,20 +1,20 @@
 {
   "schema_version": 1,
-  "checked_at": "2026-11-09T15:31:23+08:00",
+  "checked_at": "2026-11-11T18:08:48+08:00",
   "scope": "AI Agent、开发效率、自动化与学习；精选样本，不是 GitHub 全站榜单",
   "methodology": {
     "repository_rank": "所选样本按 GitHub REST API 累计 stargazers_count 降序",
     "skill_rank": "按排错、验证、开源协作、实验与展示用途人工推荐；不是客观质量排行",
     "skill_popularity": "仅统计技能所在仓库的 Star，不视为单个 Skill 的 Star",
-    "trend_limit": "与 2026-11-08T11:43:00+08:00 快照比较；实际间隔约 27.8 小时，不冒充严格 24 小时增长。未使用 Trending 缓存榜单。",
+    "trend_limit": "累计 Star 与 2026-11-09T15:31:23+08:00 快照比较，实际间隔约 50.6 小时。未采用 Trending 数据。",
     "validation": "核对仓库元数据、README 和各 Skill 的 SKILL.md；未安装或运行推荐项"
   },
   "repositories": [
     {
       "repo": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 261853,
-      "pushed_at": "2026-11-09T07:21:18Z",
+      "stars": 262583,
+      "pushed_at": "2026-11-11T09:59:44Z",
       "archived": false,
       "license": "MIT",
       "metadata_url": "https://api.github.com/repos/NousResearch/hermes-agent",
@@ -27,8 +27,8 @@
     {
       "repo": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "stars": 209882,
-      "pushed_at": "2026-11-09T07:26:14Z",
+      "stars": 210121,
+      "pushed_at": "2026-11-11T10:07:13Z",
       "archived": false,
       "license": "NOASSERTION",
       "metadata_url": "https://api.github.com/repos/n8n-io/n8n",
@@ -41,8 +41,8 @@
     {
       "repo": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "stars": 160722,
-      "pushed_at": "2026-11-09T07:28:40Z",
+      "stars": 160953,
+      "pushed_at": "2026-11-11T10:06:10Z",
       "archived": false,
       "license": "NOASSERTION",
       "metadata_url": "https://api.github.com/repos/langgenius/dify",
@@ -55,8 +55,8 @@
     {
       "repo": "Shubhamsaboo/awesome-llm-apps",
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "stars": 144239,
-      "pushed_at": "2026-11-08T17:14:10Z",
+      "stars": 144393,
+      "pushed_at": "2026-11-11T07:04:33Z",
       "archived": false,
       "license": "Apache-2.0",
       "metadata_url": "https://api.github.com/repos/Shubhamsaboo/awesome-llm-apps",
@@ -69,8 +69,8 @@
     {
       "repo": "browser-use/browser-use",
       "url": "https://github.com/browser-use/browser-use",
-      "stars": 120380,
-      "pushed_at": "2026-11-09T07:22:49Z",
+      "stars": 120664,
+      "pushed_at": "2026-11-11T04:07:36Z",
       "archived": false,
       "license": "MIT",
       "metadata_url": "https://api.github.com/repos/browser-use/browser-use",
@@ -83,7 +83,7 @@
     {
       "repo": "microsoft/ai-agents-for-beginners",
       "url": "https://github.com/microsoft/ai-agents-for-beginners",
-      "stars": 79232,
+      "stars": 79402,
       "pushed_at": "2026-11-07T04:51:12Z",
       "archived": false,
       "license": "MIT",
@@ -97,8 +97,8 @@
     {
       "repo": "langfuse/langfuse",
       "url": "https://github.com/langfuse/langfuse",
-      "stars": 37175,
-      "pushed_at": "2026-11-09T03:29:39Z",
+      "stars": 37288,
+      "pushed_at": "2026-11-11T09:57:24Z",
       "archived": false,
       "license": "MIT，ee 目录除外",
       "metadata_url": "https://api.github.com/repos/langfuse/langfuse",
@@ -107,36 +107,57 @@
       "relevance": "给 Agent 项目建立可复核的调用记录与评测证据。",
       "next_step": "先读追踪与数据集评测示例，用无敏感数据的小任务对比两种方案。",
       "limitations": "需接入 SDK 或追踪接口；自托管需服务环境，云服务及评测模型可能收费。MIT 不覆盖 ee 目录；本次未安装实测。"
+    },
+    {
+      "repo": "langchain-ai/openevals",
+      "url": "https://github.com/langchain-ai/openevals",
+      "stars": 1250,
+      "pushed_at": "2026-11-02T00:58:51Z",
+      "archived": false,
+      "license": "MIT",
+      "metadata_url": "https://api.github.com/repos/langchain-ai/openevals",
+      "readme_url": "https://github.com/langchain-ai/openevals/blob/main/README.md",
+      "description": "为 LLM 应用提供可复用的评估器，支持 Python 和 TypeScript。",
+      "relevance": "用少量已知答案检查简洁性或输出质量。",
+      "next_step": "选十条已有输入输出做人工对照，检查评估器是否给出一致判断。",
+      "limitations": "模型判分需要配置提供商，可能产生费用；评估结果受判分模型和标准影响。未安装或运行。"
     }
   ],
   "skill_sources": [
     {
       "repo": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "stars": 314721,
+      "stars": 315967,
       "pushed_at": "2026-11-03T23:24:58Z",
       "metadata_url": "https://api.github.com/repos/obra/superpowers"
     },
     {
       "repo": "anthropics/skills",
       "url": "https://github.com/anthropics/skills",
-      "stars": 189947,
+      "stars": 192749,
       "pushed_at": "2026-11-06T22:32:32Z",
       "metadata_url": "https://api.github.com/repos/anthropics/skills"
     },
     {
       "repo": "alchaincyf/huashu-design",
       "url": "https://github.com/alchaincyf/huashu-design",
-      "stars": 29008,
-      "pushed_at": "2026-11-04T03:28:47Z",
+      "stars": 29195,
+      "pushed_at": "2026-11-10T00:16:14Z",
       "metadata_url": "https://api.github.com/repos/alchaincyf/huashu-design"
     },
     {
       "repo": "openai/skills",
       "url": "https://github.com/openai/skills",
-      "stars": 28604,
+      "stars": 28678,
       "pushed_at": "2026-10-28T17:31:41Z",
       "metadata_url": "https://api.github.com/repos/openai/skills"
+    },
+    {
+      "repo": "presenton/skills",
+      "url": "https://github.com/presenton/skills",
+      "stars": 8,
+      "pushed_at": "2026-08-11T12:52:13Z",
+      "metadata_url": "https://api.github.com/repos/presenton/skills"
     }
   ],
   "skills": [
@@ -238,6 +259,17 @@
       "relevance": "对比不同视觉方向，制作可继续编辑的演示稿。",
       "limitations": "技能强制先给多个设计方向，会增加交互；完整依赖配套素材和脚本，需检查中文字体与 PPTX 导出保真度。MIT；模型调用可能收费。",
       "validation": "已读 README 与 SKILL.md，未安装或运行；不代表经过效果测评。"
+    },
+    {
+      "rank": 10,
+      "name": "presenton",
+      "repo": "presenton/skills",
+      "path": "skills/presenton/SKILL.md",
+      "url": "https://github.com/presenton/skills/blob/main/skills/presenton/SKILL.md",
+      "description": "通过 Presenton 的在线 API 生成可编辑 PPTX，也可导出 PDF 和 PNG。",
+      "relevance": "适合试做带模板的演示稿，并核对不同导出格式。",
+      "limitations": "需要兼容的 Agent、Python 辅助脚本和网络。流程可能上传用户提供的图片，并生成可分享预览链接。仓库为 Apache-2.0，服务额度和费用未核实。",
+      "validation": "已读 README 与 SKILL.md，未调用服务或实测导出。"
     }
   ]
 }
