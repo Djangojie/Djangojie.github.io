@@ -1,19 +1,20 @@
-# GitHub 项目与 Skills 雷达 · 2026-11-11
+# GitHub 项目与 Skills 雷达 · 2026-11-12
 
-采集时间：2026-11-11T18:08:48+08:00。已核对说明，未安装或运行。
+采集时间：2026-11-12T09:05:08+08:00。已核对说明，未安装或运行。
 
 ## 精选仓库累计 Star 排名
 
 | 排名 | 仓库 | Star | 做了什么 |
 | --- | --- | ---: | --- |
-| 1 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 262,583 | 带记忆、工具调用和技能机制的通用 Agent。 |
-| 2 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | 210,121 | 把不同应用串成流程的可视化自动化平台，支持 AI 步骤和代码。 |
-| 3 | [langgenius/dify](https://github.com/langgenius/dify) | 160,953 | 搭建 AI 应用、知识库检索和 Agent 工作流的平台。 |
-| 4 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 144,393 | 汇集 AI Agent、技能与检索增强应用的示例代码。 |
-| 5 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | 120,664 | 让 AI 通过代码操作浏览器，完成网页上的多步任务。 |
-| 6 | [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 79,402 | 面向初学者的 AI Agent 课程与代码示例。 |
-| 7 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 37,288 | 记录 Agent 的模型调用与执行轨迹，支持成本观察、数据集实验和评测。 |
-| 8 | [langchain-ai/openevals](https://github.com/langchain-ai/openevals) | 1,250 | 为 LLM 应用提供可复用的评估器，支持 Python 和 TypeScript。 |
+| 1 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 262,740 | 带记忆、工具调用和技能机制的通用 Agent。 |
+| 2 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | 210,220 | 把不同应用串成流程的可视化自动化平台，支持 AI 步骤和代码。 |
+| 3 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | 194,962 | 将 PDF、PPT、Word、Excel 等材料转换为便于检索和分析的 Markdown。 |
+| 4 | [langgenius/dify](https://github.com/langgenius/dify) | 160,995 | 搭建 AI 应用、知识库检索和 Agent 工作流的平台。 |
+| 5 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 144,437 | 汇集 AI Agent、技能与检索增强应用的示例代码。 |
+| 6 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | 120,741 | 让 AI 通过代码操作浏览器，完成网页上的多步任务。 |
+| 7 | [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 79,436 | 面向初学者的 AI Agent 课程与代码示例。 |
+| 8 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 37,319 | 记录 Agent 的模型调用与执行轨迹，支持成本观察、数据集实验和评测。 |
+| 9 | [langchain-ai/openevals](https://github.com/langchain-ai/openevals) | 1,250 | 为 LLM 应用提供可复用的评估器，支持 Python 和 TypeScript。 |
 
 ## Skills 推荐顺序
 
@@ -38,6 +39,6 @@
 
 仅统计技能所在仓库的 Star，不视为单个 Skill 的 Star
 
-累计 Star 与 2026-11-09T15:31:23+08:00 快照比较，实际间隔约 50.6 小时。未采用 Trending 数据。
+与 2026-11-11T18:08:48+08:00 快照相隔约 14.9 小时。仅比较累计 Star，本轮未采用 Trending 数据。
 
 核对仓库元数据、README 和各 Skill 的 SKILL.md；未安装或运行推荐项

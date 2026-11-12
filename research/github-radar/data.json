@@ -1,20 +1,20 @@
 {
   "schema_version": 1,
-  "checked_at": "2026-11-11T18:08:48+08:00",
+  "checked_at": "2026-11-12T09:05:08+08:00",
   "scope": "AI Agent、开发效率、自动化与学习；精选样本，不是 GitHub 全站榜单",
   "methodology": {
     "repository_rank": "所选样本按 GitHub REST API 累计 stargazers_count 降序",
     "skill_rank": "按排错、验证、开源协作、实验与展示用途人工推荐；不是客观质量排行",
     "skill_popularity": "仅统计技能所在仓库的 Star，不视为单个 Skill 的 Star",
-    "trend_limit": "累计 Star 与 2026-11-09T15:31:23+08:00 快照比较，实际间隔约 50.6 小时。未采用 Trending 数据。",
+    "trend_limit": "与 2026-11-11T18:08:48+08:00 快照相隔约 14.9 小时。仅比较累计 Star，本轮未采用 Trending 数据。",
     "validation": "核对仓库元数据、README 和各 Skill 的 SKILL.md；未安装或运行推荐项"
   },
   "repositories": [
     {
       "repo": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 262583,
-      "pushed_at": "2026-11-11T09:59:44Z",
+      "stars": 262740,
+      "pushed_at": "2026-11-12T01:03:36Z",
       "archived": false,
       "license": "MIT",
       "metadata_url": "https://api.github.com/repos/NousResearch/hermes-agent",
@@ -27,8 +27,8 @@
     {
       "repo": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "stars": 210121,
-      "pushed_at": "2026-11-11T10:07:13Z",
+      "stars": 210220,
+      "pushed_at": "2026-11-12T00:54:32Z",
       "archived": false,
       "license": "NOASSERTION",
       "metadata_url": "https://api.github.com/repos/n8n-io/n8n",
@@ -39,10 +39,24 @@
       "limitations": "自托管需要维护服务；使用 fair-code 授权，商业用途应查看具体条款。"
     },
     {
+      "repo": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "stars": 194962,
+      "pushed_at": "2026-11-07T00:14:01Z",
+      "archived": false,
+      "license": "MIT",
+      "metadata_url": "https://api.github.com/repos/microsoft/markitdown",
+      "readme_url": "https://github.com/microsoft/markitdown/blob/main/README.md",
+      "description": "将 PDF、PPT、Word、Excel 等材料转换为便于检索和分析的 Markdown。",
+      "relevance": "将公开课件或研究资料整理成可供检索和模型阅读的文本。",
+      "next_step": "选一份公开课件，核对转换后标题、表格与链接是否保留。",
+      "limitations": "需要 Python 3.10 至 3.14。复杂版式需人工复核，图像描述和语音转写依赖在线服务。MIT。未安装或实测。"
+    },
+    {
       "repo": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "stars": 160953,
-      "pushed_at": "2026-11-11T10:06:10Z",
+      "stars": 160995,
+      "pushed_at": "2026-11-11T17:26:10Z",
       "archived": false,
       "license": "NOASSERTION",
       "metadata_url": "https://api.github.com/repos/langgenius/dify",
@@ -55,7 +69,7 @@
     {
       "repo": "Shubhamsaboo/awesome-llm-apps",
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "stars": 144393,
+      "stars": 144437,
       "pushed_at": "2026-11-11T07:04:33Z",
       "archived": false,
       "license": "Apache-2.0",
@@ -69,8 +83,8 @@
     {
       "repo": "browser-use/browser-use",
       "url": "https://github.com/browser-use/browser-use",
-      "stars": 120664,
-      "pushed_at": "2026-11-11T04:07:36Z",
+      "stars": 120741,
+      "pushed_at": "2026-11-12T00:51:11Z",
       "archived": false,
       "license": "MIT",
       "metadata_url": "https://api.github.com/repos/browser-use/browser-use",
@@ -83,7 +97,7 @@
     {
       "repo": "microsoft/ai-agents-for-beginners",
       "url": "https://github.com/microsoft/ai-agents-for-beginners",
-      "stars": 79402,
+      "stars": 79436,
       "pushed_at": "2026-11-07T04:51:12Z",
       "archived": false,
       "license": "MIT",
@@ -97,8 +111,8 @@
     {
       "repo": "langfuse/langfuse",
       "url": "https://github.com/langfuse/langfuse",
-      "stars": 37288,
-      "pushed_at": "2026-11-11T09:57:24Z",
+      "stars": 37319,
+      "pushed_at": "2026-11-11T21:31:58Z",
       "archived": false,
       "license": "MIT，ee 目录除外",
       "metadata_url": "https://api.github.com/repos/langfuse/langfuse",
@@ -112,7 +126,7 @@
       "repo": "langchain-ai/openevals",
       "url": "https://github.com/langchain-ai/openevals",
       "stars": 1250,
-      "pushed_at": "2026-11-02T00:58:51Z",
+      "pushed_at": "2026-11-12T00:39:30Z",
       "archived": false,
       "license": "MIT",
       "metadata_url": "https://api.github.com/repos/langchain-ai/openevals",
@@ -127,28 +141,28 @@
     {
       "repo": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "stars": 315967,
+      "stars": 316314,
       "pushed_at": "2026-11-03T23:24:58Z",
       "metadata_url": "https://api.github.com/repos/obra/superpowers"
     },
     {
       "repo": "anthropics/skills",
       "url": "https://github.com/anthropics/skills",
-      "stars": 192749,
+      "stars": 193143,
       "pushed_at": "2026-11-06T22:32:32Z",
       "metadata_url": "https://api.github.com/repos/anthropics/skills"
     },
     {
       "repo": "alchaincyf/huashu-design",
       "url": "https://github.com/alchaincyf/huashu-design",
-      "stars": 29195,
+      "stars": 29251,
       "pushed_at": "2026-11-10T00:16:14Z",
       "metadata_url": "https://api.github.com/repos/alchaincyf/huashu-design"
     },
     {
       "repo": "openai/skills",
       "url": "https://github.com/openai/skills",
-      "stars": 28678,
+      "stars": 28694,
       "pushed_at": "2026-10-28T17:31:41Z",
       "metadata_url": "https://api.github.com/repos/openai/skills"
     },
