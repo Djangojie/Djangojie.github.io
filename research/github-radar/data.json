@@ -1,20 +1,20 @@
 {
   "schema_version": 1,
-  "checked_at": "2026-11-12T09:05:08+08:00",
+  "checked_at": "2026-11-13T11:59:12+08:00",
   "scope": "AI Agent、开发效率、自动化与学习；精选样本，不是 GitHub 全站榜单",
   "methodology": {
     "repository_rank": "所选样本按 GitHub REST API 累计 stargazers_count 降序",
     "skill_rank": "按排错、验证、开源协作、实验与展示用途人工推荐；不是客观质量排行",
     "skill_popularity": "仅统计技能所在仓库的 Star，不视为单个 Skill 的 Star",
-    "trend_limit": "与 2026-11-11T18:08:48+08:00 快照相隔约 14.9 小时。仅比较累计 Star，本轮未采用 Trending 数据。",
+    "trend_limit": "两期累计 Star 快照相隔约 26.9 小时，上期采集于 2026-11-12T09:05:08+08:00。本轮未采用 Trending 数据。",
     "validation": "核对仓库元数据、README 和各 Skill 的 SKILL.md；未安装或运行推荐项"
   },
   "repositories": [
     {
       "repo": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 262740,
-      "pushed_at": "2026-11-12T01:03:36Z",
+      "stars": 263008,
+      "pushed_at": "2026-11-13T03:53:51Z",
       "archived": false,
       "license": "MIT",
       "metadata_url": "https://api.github.com/repos/NousResearch/hermes-agent",
@@ -27,8 +27,8 @@
     {
       "repo": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "stars": 210220,
-      "pushed_at": "2026-11-12T00:54:32Z",
+      "stars": 210341,
+      "pushed_at": "2026-11-13T03:41:04Z",
       "archived": false,
       "license": "NOASSERTION",
       "metadata_url": "https://api.github.com/repos/n8n-io/n8n",
@@ -41,7 +41,7 @@
     {
       "repo": "microsoft/markitdown",
       "url": "https://github.com/microsoft/markitdown",
-      "stars": 194962,
+      "stars": 195144,
       "pushed_at": "2026-11-07T00:14:01Z",
       "archived": false,
       "license": "MIT",
@@ -55,8 +55,8 @@
     {
       "repo": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "stars": 160995,
-      "pushed_at": "2026-11-11T17:26:10Z",
+      "stars": 161067,
+      "pushed_at": "2026-11-13T03:55:13Z",
       "archived": false,
       "license": "NOASSERTION",
       "metadata_url": "https://api.github.com/repos/langgenius/dify",
@@ -69,7 +69,7 @@
     {
       "repo": "Shubhamsaboo/awesome-llm-apps",
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "stars": 144437,
+      "stars": 144522,
       "pushed_at": "2026-11-11T07:04:33Z",
       "archived": false,
       "license": "Apache-2.0",
@@ -83,8 +83,8 @@
     {
       "repo": "browser-use/browser-use",
       "url": "https://github.com/browser-use/browser-use",
-      "stars": 120741,
-      "pushed_at": "2026-11-12T00:51:11Z",
+      "stars": 120865,
+      "pushed_at": "2026-11-12T23:09:38Z",
       "archived": false,
       "license": "MIT",
       "metadata_url": "https://api.github.com/repos/browser-use/browser-use",
@@ -97,7 +97,7 @@
     {
       "repo": "microsoft/ai-agents-for-beginners",
       "url": "https://github.com/microsoft/ai-agents-for-beginners",
-      "stars": 79436,
+      "stars": 79524,
       "pushed_at": "2026-11-07T04:51:12Z",
       "archived": false,
       "license": "MIT",
@@ -111,8 +111,8 @@
     {
       "repo": "langfuse/langfuse",
       "url": "https://github.com/langfuse/langfuse",
-      "stars": 37319,
-      "pushed_at": "2026-11-11T21:31:58Z",
+      "stars": 37371,
+      "pushed_at": "2026-11-13T03:28:49Z",
       "archived": false,
       "license": "MIT，ee 目录除外",
       "metadata_url": "https://api.github.com/repos/langfuse/langfuse",
@@ -123,10 +123,24 @@
       "limitations": "需接入 SDK 或追踪接口；自托管需服务环境，云服务及评测模型可能收费。MIT 不覆盖 ee 目录；本次未安装实测。"
     },
     {
+      "repo": "marp-team/marp-cli",
+      "url": "https://github.com/marp-team/marp-cli",
+      "stars": 3917,
+      "pushed_at": "2026-09-08T14:24:15Z",
+      "archived": false,
+      "license": "MIT",
+      "metadata_url": "https://api.github.com/repos/marp-team/marp-cli",
+      "readme_url": "https://github.com/marp-team/marp-cli/blob/main/README.md",
+      "description": "将 Markdown 课件转为网页、PDF 或 PowerPoint。",
+      "relevance": "适合把重复使用的课程讲稿和版式放进版本控制。",
+      "next_step": "用一份公开讲稿比较 PDF 和 PPTX 导出效果。",
+      "limitations": "MIT。PDF 和 PPTX 转换需要兼容浏览器。常规 PPTX 以渲染图为主，可编辑模式仍属实验，另需 LibreOffice Impress。未安装或实测。"
+    },
+    {
       "repo": "langchain-ai/openevals",
       "url": "https://github.com/langchain-ai/openevals",
       "stars": 1250,
-      "pushed_at": "2026-11-12T00:39:30Z",
+      "pushed_at": "2026-11-12T20:37:30Z",
       "archived": false,
       "license": "MIT",
       "metadata_url": "https://api.github.com/repos/langchain-ai/openevals",
@@ -141,28 +155,28 @@
     {
       "repo": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "stars": 316314,
+      "stars": 316844,
       "pushed_at": "2026-11-03T23:24:58Z",
       "metadata_url": "https://api.github.com/repos/obra/superpowers"
     },
     {
       "repo": "anthropics/skills",
       "url": "https://github.com/anthropics/skills",
-      "stars": 193143,
+      "stars": 193762,
       "pushed_at": "2026-11-06T22:32:32Z",
       "metadata_url": "https://api.github.com/repos/anthropics/skills"
     },
     {
       "repo": "alchaincyf/huashu-design",
       "url": "https://github.com/alchaincyf/huashu-design",
-      "stars": 29251,
+      "stars": 29369,
       "pushed_at": "2026-11-10T00:16:14Z",
       "metadata_url": "https://api.github.com/repos/alchaincyf/huashu-design"
     },
     {
       "repo": "openai/skills",
       "url": "https://github.com/openai/skills",
-      "stars": 28694,
+      "stars": 28716,
       "pushed_at": "2026-10-28T17:31:41Z",
       "metadata_url": "https://api.github.com/repos/openai/skills"
     },
