@@ -43,6 +43,7 @@ layout: null
   <nav class="shell site-nav" aria-label="主导航">
     <a class="site-name" href="{{ '/' | relative_url }}">KeJie Ye</a>
     <ul>
+      <li><a href="#vocal-ai">高校科研</a></li>
       <li><a href="#reading">论文与课程</a></li>
       <li><a href="#projects">工程项目</a></li>
       <li><a href="#radar">开源观察</a></li>
@@ -58,6 +59,20 @@ layout: null
       </div>
       <img class="portrait" src="https://github.com/Djangojie.png?size=256" alt="" width="128" height="128">
     </header>
+    <section class="section" id="vocal-ai" aria-labelledby="vocal-ai-title">
+      <h2 id="vocal-ai-title">高校科研 <span lang="en">Research &amp; Publications</span></h2>
+      <ul class="entries">
+        <li>
+          <h3><a href="{{ '/research/vocal-ai/#diva-宝贝--智能声乐评测' | relative_url }}">Diva 宝贝 · 智能声乐评测</a></h3>
+          <p>上海理工大学科艺融合项目。参与音频数据处理、评测模型调优和部署支持。系统用于 2025 中德智声国际音乐节复赛，辅助 12 位专家评委评分。</p>
+        </li>
+        <li>
+          <h3><a href="https://github.com/Djangojie/BelcantoEdu">BelcantoEdu · 可控美声歌声生成</a></h3>
+          <p>基于开源 Audio Diffusion 的研究原型，用十维技巧向量控制扩散去噪，探索可用于教学示例的歌声生成。</p>
+        </li>
+        <li><a href="{{ '/research/vocal-ai/' | relative_url }}">项目详解与 4 项署名成果</a> · Scientific Reports、Journal of Voice、arXiv</li>
+      </ul>
+    </section>
     <section class="section" id="reading" aria-labelledby="reading-title">
       <h2 id="reading-title">论文与课程 <span lang="en">Reading Notes</span></h2>
       <ul class="entries">
@@ -76,10 +91,6 @@ layout: null
             <li><a href="{{ '/research/agents/guides/attention-reading.html' | relative_url }}">Attention 导读</a></li>
             <li><a href="{{ '/research/agents/guides/compression-reading.html' | relative_url }}">语言建模与压缩导读</a></li>
           </ul>
-        </li>
-        <li>
-          <h3><a href="{{ '/posts/my-paper-post/' | relative_url }}">Belcantoedu 论文梳理</a></h3>
-          <p>围绕项目与歌声合成系统的区别整理的写作笔记。</p>
         </li>
       </ul>
     </section>
