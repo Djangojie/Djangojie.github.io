@@ -1,4 +1,123 @@
 ---
-layout: home
-# Index page
+layout: null
 ---
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="叶柯杰（KeJie Ye）的机器学习、Agent 系统与 AI 教育项目。">
+  <title>叶柯杰 · KeJie Ye</title>
+  <style>
+    :root{color-scheme:light;--paper:#fcfbf7;--ink:#202822;--muted:#526056;--link:#225b4a;--line:#d9ded4}
+    @media(prefers-color-scheme:dark){:root{color-scheme:dark;--paper:#181e1b;--ink:#e7eee7;--muted:#b4c3b8;--link:#a6dbc5;--line:#3c4c42}}
+    *{box-sizing:border-box}
+    html{scroll-padding-top:1rem}
+    body{margin:0;background:var(--paper);color:var(--ink);font:1rem/1.75 "Source Sans 3","Noto Sans SC","Microsoft YaHei",system-ui,sans-serif}
+    a{color:var(--link);text-underline-offset:.22em}
+    a:hover{text-decoration-thickness:2px}
+    a:focus-visible{outline:2px solid var(--link);outline-offset:4px}
+    .shell{width:min(68rem,100% - 3rem);margin-inline:auto}
+    .site-nav,.site-footer{display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:.5rem 2rem;padding-block:1.2rem;font-size:.94rem}
+    .site-nav{border-bottom:1px solid var(--line)}
+    .site-nav ul,.links{display:flex;flex-wrap:wrap;gap:.25rem 1.25rem;padding:0;margin:0;list-style:none}
+    .site-name{font-weight:700;color:var(--ink);text-decoration:none}
+    .intro{display:grid;grid-template-columns:minmax(0,1fr) auto;align-items:center;gap:2.5rem;padding-block:clamp(2.5rem,7vw,5.5rem)}
+    .portrait{width:8rem;height:8rem;object-fit:cover;border-radius:50%;border:1px solid var(--line)}
+    h1,h2,h3{line-height:1.3;margin:0}
+    h1{font:600 clamp(2.35rem,6vw,4.4rem)/1.15 "Noto Serif SC","Songti SC",SimSun,Georgia,serif}
+    h1 span{display:block;font:400 clamp(1.25rem,3vw,1.9rem)/1.4 Georgia,serif;color:var(--muted);margin-top:.4rem}
+    .intro p{max-width:46rem;margin:1.25rem 0 1rem}
+    .section{display:grid;grid-template-columns:12rem minmax(0,1fr);gap:1rem 2rem;padding-block:2.15rem;border-top:1px solid var(--line)}
+    h2{font:600 1.42rem/1.35 "Noto Serif SC","Songti SC",SimSun,Georgia,serif}
+    h2 span{display:block;font:400 .95rem/1.5 Georgia,serif;color:var(--muted);margin-top:.28rem}
+    h3{font-size:1.09rem}
+    .entries{display:grid;gap:1.35rem;margin:0;padding:0;list-style:none}
+    .entries p{margin:.32rem 0 0;color:var(--muted)}
+    .entries .links{margin-top:.25rem;font-size:.92rem}
+    .site-footer{border-top:1px solid var(--line);color:var(--muted)}
+    @media(max-width:640px){.shell{width:calc(100% - 2rem)}.intro{gap:1rem}.portrait{width:4.75rem;height:4.75rem;align-self:start}.section{grid-template-columns:1fr}}
+  </style>
+</head>
+<body>
+  <nav class="shell site-nav" aria-label="主导航">
+    <a class="site-name" href="{{ '/' | relative_url }}">KeJie Ye</a>
+    <ul>
+      <li><a href="#reading">论文与课程</a></li>
+      <li><a href="#projects">工程项目</a></li>
+      <li><a href="#radar">开源观察</a></li>
+      <li><a href="{{ '/archives/' | relative_url }}">文章归档</a></li>
+    </ul>
+  </nav>
+  <main class="shell">
+    <header class="intro">
+      <div>
+        <h1>叶柯杰 <span lang="en">KeJie Ye</span></h1>
+        <p>我的技术方向是机器学习与深度学习，目前关注语言模型如何使用工具、管理上下文，以及怎样检验 Agent 的任务结果。这里汇集我的论文阅读、课程笔记和 AI 教育软件实践。</p>
+        <a href="https://github.com/Djangojie">GitHub</a>
+      </div>
+      <img class="portrait" src="https://github.com/Djangojie.png?size=256" alt="" width="128" height="128">
+    </header>
+    <section class="section" id="reading" aria-labelledby="reading-title">
+      <h2 id="reading-title">论文与课程 <span lang="en">Reading Notes</span></h2>
+      <ul class="entries">
+        <li>
+          <h3><a href="{{ '/research/agents/' | relative_url }}">从语言模型到可靠 Agent</a></h3>
+          <p>围绕 CMU 11-768 整理工具调用、长上下文、记忆与技能。资料集包含论文来源、课程对照笔记和作业实验计划。</p>
+          <ul class="links">
+            <li><a href="{{ '/posts/from-attention-to-reliable-agents/' | relative_url }}">学习综述</a></li>
+            <li><a href="https://github.com/Djangojie/Djangojie.github.io/blob/main/research/agents/sources.md">来源索引</a></li>
+          </ul>
+        </li>
+        <li>
+          <h3>注意力与语言建模</h3>
+          <p>用交互式教学示例理解注意力权重，以及预测概率与编码长度之间的关系。</p>
+          <ul class="links">
+            <li><a href="{{ '/research/agents/guides/attention-reading.html' | relative_url }}">Attention 导读</a></li>
+            <li><a href="{{ '/research/agents/guides/compression-reading.html' | relative_url }}">语言建模与压缩导读</a></li>
+          </ul>
+        </li>
+        <li>
+          <h3><a href="{{ '/posts/my-paper-post/' | relative_url }}">Belcantoedu 论文梳理</a></h3>
+          <p>围绕项目与歌声合成系统的区别整理的写作笔记。</p>
+        </li>
+      </ul>
+    </section>
+    <section class="section" id="projects" aria-labelledby="projects-title">
+      <h2 id="projects-title">工程项目 <span lang="en">Selected Projects</span></h2>
+      <ul class="entries">
+        <li>
+          <h3><a href="https://github.com/Djangojie/eureka-boom-learning-hub">Eureka Boom 学习平台</a></h3>
+          <p>课程管理与教师工作台的 Node.js 源码快照。已用示例数据完成本地启动检查。</p>
+        </li>
+        <li>
+          <h3><a href="https://github.com/Djangojie/parent-group-reply-simulator">家长群回复模拟器</a></h3>
+          <p>用匿名示例模拟课程提醒、人工审批和操作记录。原型测试覆盖本地模拟流程。</p>
+        </li>
+        <li>
+          <h3><a href="https://github.com/Djangojie/MacroPuzzle">MacroPuzzle</a></h3>
+          <p>营养记录的交互原型，支持本地图片预览、手动记录和营养拼图展示。</p>
+        </li>
+        <li><a href="{{ '/posts/recent-projects/' | relative_url }}">项目说明与验证范围</a></li>
+      </ul>
+    </section>
+    <section class="section" id="radar" aria-labelledby="radar-title">
+      <h2 id="radar-title">开源观察 <span lang="en">Open-source Radar</span></h2>
+      <ul class="entries">
+        <li>
+          <h3><a href="{{ '/research/github-radar/' | relative_url }}">GitHub 项目与 Agent Skills 雷达</a></h3>
+          <p>跟踪 Agent、自动化与开发工具的开源样本。雷达页提供数据口径、累计 Star、项目来源和使用限制。</p>
+          <ul class="links">
+            <li><a href="{{ '/posts/github-projects-and-agent-skills-radar/' | relative_url }}">雷达说明</a></li>
+            <li><a href="{{ '/research/github-radar/topics/ppt-and-wechat/' | relative_url }}">PPT 与微信专题</a></li>
+          </ul>
+        </li>
+      </ul>
+    </section>
+  </main>
+  <footer class="shell site-footer">
+    <span>叶柯杰 · KeJie Ye</span>
+    <a href="{{ '/archives/' | relative_url }}">浏览全部文章</a>
+  </footer>
+</body>
+</html>
