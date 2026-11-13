@@ -23,7 +23,7 @@ layout: null
     h1{color:var(--ink);font-size:clamp(2.3rem,5.6vw,3.9rem);font-weight:500;letter-spacing:-.07em;line-height:1.12}
     .name-zh{font-size:1rem;letter-spacing:.08em;color:var(--muted);margin-top:10px}
     .role{max-width:40rem;margin-top:8px;font-size:clamp(1rem,2vw,1.18rem)}
-    .portrait{width:clamp(105px,16vw,168px);height:auto;aspect-ratio:1;object-fit:cover;border:1px solid var(--line);border-radius:18px;margin-top:8px}
+    .portrait{width:clamp(105px,16vw,168px);height:auto;aspect-ratio:1;object-fit:cover;object-position:center 35%;border:1px solid var(--line);border-radius:18px;margin-top:8px}
     .links,.site-nav ul{display:flex;flex-wrap:wrap;gap:8px 22px;padding:0;margin:14px 0 0;list-style:none}
     .site-nav ul{margin-top:26px;color:var(--muted);font-size:.89rem}
     .section{margin-top:clamp(39px,6vw,66px)}
@@ -55,7 +55,7 @@ layout: null
           <li><a href="{{ '/archives/' | relative_url }}">文章归档 ↗</a></li>
         </ul>
       </div>
-      <img class="portrait" src="https://github.com/Djangojie.png?size=256" alt="叶柯杰的 GitHub 头像" width="168" height="168">
+      <img class="portrait" src="{{ '/assets/img/profile-portrait.jpg' | relative_url }}" alt="叶柯杰的证件照" width="168" height="168">
     </header>
     <nav class="site-nav" aria-label="站内目录">
       <ul>
