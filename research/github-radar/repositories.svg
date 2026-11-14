@@ -1,47 +1,51 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 867" role="img" aria-labelledby="title desc">
-<title id="title">热门仓库 · 累计 Star 排名</title><desc id="desc">2026-11-13 / 精选样本 / 线性刻度，起点为 0。NousResearch/hermes-agent: 263,008 Stars；n8n-io/n8n: 210,341 Stars；microsoft/markitdown: 195,144 Stars；langgenius/dify: 161,067 Stars；Shubhamsaboo/awesome-llm-apps: 144,522 Stars；browser-use/browser-use: 120,865 Stars；microsoft/ai-agents-for-beginners: 79,524 Stars；langfuse/langfuse: 37,371 Stars；marp-team/marp-cli: 3,917 Stars；langchain-ai/openevals: 1,250 Stars</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 937" role="img" aria-labelledby="title desc">
+<title id="title">热门仓库 · 累计 Star 排名</title><desc id="desc">2026-11-14 / 精选样本 / 线性刻度，起点为 0。NousResearch/hermes-agent: 263,223 Stars；n8n-io/n8n: 210,415 Stars；microsoft/markitdown: 195,252 Stars；langgenius/dify: 161,121 Stars；Shubhamsaboo/awesome-llm-apps: 144,584 Stars；browser-use/browser-use: 120,956 Stars；microsoft/ai-agents-for-beginners: 79,576 Stars；astral-sh/ruff: 51,227 Stars；langfuse/langfuse: 37,400 Stars；marp-team/marp-cli: 3,919 Stars；langchain-ai/openevals: 1,252 Stars</desc>
 <rect width="100%" height="100%" rx="20" fill="#f5f3ed"/>
 <g font-family="Segoe UI,Microsoft YaHei,Arial,sans-serif" fill="#152d35">
 <text x="28" y="42" font-size="25" font-weight="700">热门仓库 · 累计 Star 排名</text>
-<text x="28" y="72" font-size="15" fill="#52676d">2026-11-13 / 精选样本 / 线性刻度，起点为 0</text>
+<text x="28" y="72" font-size="15" fill="#52676d">2026-11-14 / 精选样本 / 线性刻度，起点为 0</text>
 <text x="28" y="145" font-size="16">01  NousResearch/hermes-agent</text>
 <rect x="395" y="125" width="460" height="30" rx="5" fill="#e0e5df"/>
 <rect x="395" y="125" width="460.0" height="30" rx="5" fill="#1c6970"/>
-<text x="875" y="146" font-size="17">263,008</text>
+<text x="875" y="146" font-size="17">263,223</text>
 <text x="28" y="215" font-size="16">02  n8n-io/n8n</text>
 <rect x="395" y="195" width="460" height="30" rx="5" fill="#e0e5df"/>
-<rect x="395" y="195" width="367.9" height="30" rx="5" fill="#40858a"/>
-<text x="875" y="216" font-size="17">210,341</text>
+<rect x="395" y="195" width="367.7" height="30" rx="5" fill="#40858a"/>
+<text x="875" y="216" font-size="17">210,415</text>
 <text x="28" y="285" font-size="16">03  microsoft/markitdown</text>
 <rect x="395" y="265" width="460" height="30" rx="5" fill="#e0e5df"/>
-<rect x="395" y="265" width="341.3" height="30" rx="5" fill="#639da0"/>
-<text x="875" y="286" font-size="17">195,144</text>
+<rect x="395" y="265" width="341.2" height="30" rx="5" fill="#639da0"/>
+<text x="875" y="286" font-size="17">195,252</text>
 <text x="28" y="355" font-size="16">04  langgenius/dify</text>
 <rect x="395" y="335" width="460" height="30" rx="5" fill="#e0e5df"/>
-<rect x="395" y="335" width="281.7" height="30" rx="5" fill="#639da0"/>
-<text x="875" y="356" font-size="17">161,067</text>
+<rect x="395" y="335" width="281.6" height="30" rx="5" fill="#639da0"/>
+<text x="875" y="356" font-size="17">161,121</text>
 <text x="28" y="425" font-size="16">05  Shubhamsaboo/awesome-llm-apps</text>
 <rect x="395" y="405" width="460" height="30" rx="5" fill="#e0e5df"/>
-<rect x="395" y="405" width="252.8" height="30" rx="5" fill="#639da0"/>
-<text x="875" y="426" font-size="17">144,522</text>
+<rect x="395" y="405" width="252.7" height="30" rx="5" fill="#639da0"/>
+<text x="875" y="426" font-size="17">144,584</text>
 <text x="28" y="495" font-size="16">06  browser-use/browser-use</text>
 <rect x="395" y="475" width="460" height="30" rx="5" fill="#e0e5df"/>
 <rect x="395" y="475" width="211.4" height="30" rx="5" fill="#639da0"/>
-<text x="875" y="496" font-size="17">120,865</text>
+<text x="875" y="496" font-size="17">120,956</text>
 <text x="28" y="565" font-size="16">07  microsoft/ai-agents-for-beginners</text>
 <rect x="395" y="545" width="460" height="30" rx="5" fill="#e0e5df"/>
 <rect x="395" y="545" width="139.1" height="30" rx="5" fill="#639da0"/>
-<text x="875" y="566" font-size="17">79,524</text>
-<text x="28" y="635" font-size="16">08  langfuse/langfuse</text>
+<text x="875" y="566" font-size="17">79,576</text>
+<text x="28" y="635" font-size="16">08  astral-sh/ruff</text>
 <rect x="395" y="615" width="460" height="30" rx="5" fill="#e0e5df"/>
-<rect x="395" y="615" width="65.4" height="30" rx="5" fill="#639da0"/>
-<text x="875" y="636" font-size="17">37,371</text>
-<text x="28" y="705" font-size="16">09  marp-team/marp-cli</text>
+<rect x="395" y="615" width="89.5" height="30" rx="5" fill="#639da0"/>
+<text x="875" y="636" font-size="17">51,227</text>
+<text x="28" y="705" font-size="16">09  langfuse/langfuse</text>
 <rect x="395" y="685" width="460" height="30" rx="5" fill="#e0e5df"/>
-<rect x="395" y="685" width="6.9" height="30" rx="5" fill="#639da0"/>
-<text x="875" y="706" font-size="17">3,917</text>
-<text x="28" y="775" font-size="16">10  langchain-ai/openevals</text>
+<rect x="395" y="685" width="65.4" height="30" rx="5" fill="#639da0"/>
+<text x="875" y="706" font-size="17">37,400</text>
+<text x="28" y="775" font-size="16">10  marp-team/marp-cli</text>
 <rect x="395" y="755" width="460" height="30" rx="5" fill="#e0e5df"/>
-<rect x="395" y="755" width="2.2" height="30" rx="5" fill="#639da0"/>
-<text x="875" y="776" font-size="17">1,250</text>
+<rect x="395" y="755" width="6.8" height="30" rx="5" fill="#639da0"/>
+<text x="875" y="776" font-size="17">3,919</text>
+<text x="28" y="845" font-size="16">11  langchain-ai/openevals</text>
+<rect x="395" y="825" width="460" height="30" rx="5" fill="#e0e5df"/>
+<rect x="395" y="825" width="2.2" height="30" rx="5" fill="#639da0"/>
+<text x="875" y="846" font-size="17">1,252</text>
 </g></svg>

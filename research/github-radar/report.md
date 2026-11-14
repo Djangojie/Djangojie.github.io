@@ -1,21 +1,22 @@
-# GitHub 项目与 Skills 雷达 · 2026-11-13
+# GitHub 项目与 Skills 雷达 · 2026-11-14
 
-采集时间：2026-11-13T11:59:12+08:00。已核对说明，未安装或运行。
+采集时间：2026-11-14T09:07:53+08:00。已核对说明，未安装或运行。
 
 ## 精选仓库累计 Star 排名
 
 | 排名 | 仓库 | Star | 做了什么 |
 | --- | --- | ---: | --- |
-| 1 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 263,008 | 带记忆、工具调用和技能机制的通用 Agent。 |
-| 2 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | 210,341 | 把不同应用串成流程的可视化自动化平台，支持 AI 步骤和代码。 |
-| 3 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | 195,144 | 将 PDF、PPT、Word、Excel 等材料转换为便于检索和分析的 Markdown。 |
-| 4 | [langgenius/dify](https://github.com/langgenius/dify) | 161,067 | 搭建 AI 应用、知识库检索和 Agent 工作流的平台。 |
-| 5 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 144,522 | 汇集 AI Agent、技能与检索增强应用的示例代码。 |
-| 6 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | 120,865 | 让 AI 通过代码操作浏览器，完成网页上的多步任务。 |
-| 7 | [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 79,524 | 面向初学者的 AI Agent 课程与代码示例。 |
-| 8 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 37,371 | 记录 Agent 的模型调用与执行轨迹，支持成本观察、数据集实验和评测。 |
-| 9 | [marp-team/marp-cli](https://github.com/marp-team/marp-cli) | 3,917 | 将 Markdown 课件转为网页、PDF 或 PowerPoint。 |
-| 10 | [langchain-ai/openevals](https://github.com/langchain-ai/openevals) | 1,250 | 为 LLM 应用提供可复用的评估器，支持 Python 和 TypeScript。 |
+| 1 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 263,223 | 带记忆、工具调用和技能机制的通用 Agent。 |
+| 2 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | 210,415 | 把不同应用串成流程的可视化自动化平台，支持 AI 步骤和代码。 |
+| 3 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | 195,252 | 将 PDF、PPT、Word、Excel 等材料转换为便于检索和分析的 Markdown。 |
+| 4 | [langgenius/dify](https://github.com/langgenius/dify) | 161,121 | 搭建 AI 应用、知识库检索和 Agent 工作流的平台。 |
+| 5 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 144,584 | 汇集 AI Agent、技能与检索增强应用的示例代码。 |
+| 6 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | 120,956 | 让 AI 通过代码操作浏览器，完成网页上的多步任务。 |
+| 7 | [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 79,576 | 面向初学者的 AI Agent 课程与代码示例。 |
+| 8 | [astral-sh/ruff](https://github.com/astral-sh/ruff) | 51,227 | 检查 Python 代码中的常见问题并统一排版，规则可写入 pyproject.toml。 |
+| 9 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 37,400 | 记录 Agent 的模型调用与执行轨迹，支持成本观察、数据集实验和评测。 |
+| 10 | [marp-team/marp-cli](https://github.com/marp-team/marp-cli) | 3,919 | 将 Markdown 课件转为网页、PDF 或 PowerPoint。 |
+| 11 | [langchain-ai/openevals](https://github.com/langchain-ai/openevals) | 1,252 | 为 LLM 应用提供可复用的评估器，支持 Python 和 TypeScript。 |
 
 ## Skills 推荐顺序
 
@@ -40,6 +41,6 @@
 
 仅统计技能所在仓库的 Star，不视为单个 Skill 的 Star
 
-两期累计 Star 快照相隔约 26.9 小时，上期采集于 2026-11-12T09:05:08+08:00。本轮未采用 Trending 数据。
+两期累计 Star 快照相隔约 21.1 小时，上期采集于 2026-11-13T11:59:12+08:00。本轮未采用 Trending 数据。
 
 核对仓库元数据、README 和各 Skill 的 SKILL.md；未安装或运行推荐项
