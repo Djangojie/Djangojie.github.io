@@ -1,20 +1,20 @@
 {
   "schema_version": 1,
-  "checked_at": "2026-11-15T10:06:08+08:00",
+  "checked_at": "2026-11-16T17:35:29+08:00",
   "scope": "AI Agent、开发效率、自动化与学习；精选样本，不是 GitHub 全站榜单",
   "methodology": {
     "repository_rank": "所选样本按 GitHub REST API 累计 stargazers_count 降序",
     "skill_rank": "按排错、验证、开源协作、实验与展示用途人工推荐；不是客观质量排行",
     "skill_popularity": "仅统计技能所在仓库的 Star，不视为单个 Skill 的 Star",
-    "trend_limit": "两期累计 Star 快照相隔约 25.0 小时，上期采集于 2026-11-14T09:07:53+08:00。本轮未采用 Trending 数据。",
+    "trend_limit": "两期累计 Star 快照相隔约 31.5 小时，上期采集于 2026-11-15T10:06:08+08:00。本轮未采用 Trending 数据。",
     "validation": "核对仓库元数据、README 和各 Skill 的 SKILL.md；未安装或运行推荐项"
   },
   "repositories": [
     {
       "repo": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 263423,
-      "pushed_at": "2026-11-15T01:59:35Z",
+      "stars": 263756,
+      "pushed_at": "2026-11-16T09:29:18Z",
       "archived": false,
       "license": "MIT",
       "metadata_url": "https://api.github.com/repos/NousResearch/hermes-agent",
@@ -27,8 +27,8 @@
     {
       "repo": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "stars": 210512,
-      "pushed_at": "2026-11-14T20:29:01Z",
+      "stars": 210621,
+      "pushed_at": "2026-11-16T09:34:26Z",
       "archived": false,
       "license": "NOASSERTION",
       "metadata_url": "https://api.github.com/repos/n8n-io/n8n",
@@ -41,7 +41,7 @@
     {
       "repo": "microsoft/markitdown",
       "url": "https://github.com/microsoft/markitdown",
-      "stars": 195394,
+      "stars": 195631,
       "pushed_at": "2026-11-07T00:14:01Z",
       "archived": false,
       "license": "MIT",
@@ -55,8 +55,8 @@
     {
       "repo": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "stars": 161166,
-      "pushed_at": "2026-11-15T00:33:50Z",
+      "stars": 161256,
+      "pushed_at": "2026-11-16T09:30:22Z",
       "archived": false,
       "license": "NOASSERTION",
       "metadata_url": "https://api.github.com/repos/langgenius/dify",
@@ -69,8 +69,8 @@
     {
       "repo": "Shubhamsaboo/awesome-llm-apps",
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "stars": 144646,
-      "pushed_at": "2026-11-11T07:04:33Z",
+      "stars": 144821,
+      "pushed_at": "2026-11-15T20:56:20Z",
       "archived": false,
       "license": "Apache-2.0",
       "metadata_url": "https://api.github.com/repos/Shubhamsaboo/awesome-llm-apps",
@@ -83,8 +83,8 @@
     {
       "repo": "browser-use/browser-use",
       "url": "https://github.com/browser-use/browser-use",
-      "stars": 121039,
-      "pushed_at": "2026-11-14T08:26:36Z",
+      "stars": 121162,
+      "pushed_at": "2026-11-16T05:49:16Z",
       "archived": false,
       "license": "MIT",
       "metadata_url": "https://api.github.com/repos/browser-use/browser-use",
@@ -97,7 +97,7 @@
     {
       "repo": "microsoft/ai-agents-for-beginners",
       "url": "https://github.com/microsoft/ai-agents-for-beginners",
-      "stars": 79639,
+      "stars": 79785,
       "pushed_at": "2026-11-07T04:51:12Z",
       "archived": false,
       "license": "MIT",
@@ -111,8 +111,8 @@
     {
       "repo": "astral-sh/ruff",
       "url": "https://github.com/astral-sh/ruff",
-      "stars": 51249,
-      "pushed_at": "2026-11-15T01:55:23Z",
+      "stars": 51271,
+      "pushed_at": "2026-11-16T09:23:17Z",
       "archived": false,
       "license": "MIT",
       "metadata_url": "https://api.github.com/repos/astral-sh/ruff",
@@ -125,8 +125,8 @@
     {
       "repo": "langfuse/langfuse",
       "url": "https://github.com/langfuse/langfuse",
-      "stars": 37436,
-      "pushed_at": "2026-11-14T23:54:30Z",
+      "stars": 37480,
+      "pushed_at": "2026-11-16T09:34:10Z",
       "archived": false,
       "license": "MIT，ee 目录除外",
       "metadata_url": "https://api.github.com/repos/langfuse/langfuse",
@@ -137,10 +137,24 @@
       "limitations": "需接入 SDK 或追踪接口；自托管需服务环境，云服务及评测模型可能收费。MIT 不覆盖 ee 目录；本次未安装实测。"
     },
     {
+      "repo": "louis-e/arnis",
+      "url": "https://github.com/louis-e/arnis",
+      "stars": 18641,
+      "pushed_at": "2026-11-15T17:26:13Z",
+      "archived": false,
+      "license": "Apache-2.0",
+      "metadata_url": "https://api.github.com/repos/louis-e/arnis",
+      "readme_url": "https://github.com/louis-e/arnis/blob/main/README.md",
+      "description": "用 OpenStreetMap 和高程数据生成 Minecraft 世界，重建街道、建筑与地形。",
+      "relevance": "适合把河流和城市地形放进地理课堂，也可比较真实地图与方块世界。",
+      "next_step": "先生成海德堡老桥附近的小片区，观察河道、街区和山坡。",
+      "limitations": "Apache-2.0。桌面版免费开源，在线生成服务另计。效果取决于地图覆盖及地形数据，复杂地标可能失真。本轮未实测生成或导入。"
+    },
+    {
       "repo": "pytest-dev/pytest",
       "url": "https://github.com/pytest-dev/pytest",
-      "stars": 14686,
-      "pushed_at": "2026-11-15T00:27:07Z",
+      "stars": 14689,
+      "pushed_at": "2026-11-16T08:20:28Z",
       "archived": false,
       "license": "MIT",
       "metadata_url": "https://api.github.com/repos/pytest-dev/pytest",
@@ -153,7 +167,7 @@
     {
       "repo": "marp-team/marp-cli",
       "url": "https://github.com/marp-team/marp-cli",
-      "stars": 3922,
+      "stars": 3932,
       "pushed_at": "2026-09-08T14:24:15Z",
       "archived": false,
       "license": "MIT",
@@ -183,35 +197,35 @@
     {
       "repo": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "stars": 317668,
+      "stars": 318253,
       "pushed_at": "2026-11-03T23:24:58Z",
       "metadata_url": "https://api.github.com/repos/obra/superpowers"
     },
     {
       "repo": "anthropics/skills",
       "url": "https://github.com/anthropics/skills",
-      "stars": 194647,
+      "stars": 195594,
       "pushed_at": "2026-11-14T21:52:49Z",
       "metadata_url": "https://api.github.com/repos/anthropics/skills"
     },
     {
       "repo": "alchaincyf/huashu-design",
       "url": "https://github.com/alchaincyf/huashu-design",
-      "stars": 29508,
+      "stars": 29629,
       "pushed_at": "2026-11-10T00:16:14Z",
       "metadata_url": "https://api.github.com/repos/alchaincyf/huashu-design"
     },
     {
       "repo": "openai/skills",
       "url": "https://github.com/openai/skills",
-      "stars": 28747,
+      "stars": 28764,
       "pushed_at": "2026-10-28T17:31:41Z",
       "metadata_url": "https://api.github.com/repos/openai/skills"
     },
     {
       "repo": "presenton/skills",
       "url": "https://github.com/presenton/skills",
-      "stars": 8,
+      "stars": 9,
       "pushed_at": "2026-08-11T12:52:13Z",
       "metadata_url": "https://api.github.com/repos/presenton/skills"
     }
