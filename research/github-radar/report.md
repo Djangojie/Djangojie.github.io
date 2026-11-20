@@ -1,25 +1,26 @@
-# GitHub 项目与 Skills 雷达 · 2026-11-18
+# GitHub 项目与 Skills 雷达 · 2026-11-20
 
-采集时间：2026-11-18T13:44:06+08:00。已核对说明，未安装或运行。
+采集时间：2026-11-20T11:41:36+08:00。已核对说明，未安装或运行。
 
 ## 精选仓库累计 Star 排名
 
 | 排名 | 仓库 | Star | 做了什么 |
 | --- | --- | ---: | --- |
-| 1 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 264,284 | 带记忆、工具调用和技能机制的通用 Agent。 |
-| 2 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | 210,904 | 把不同应用串成流程的可视化自动化平台，支持 AI 步骤和代码。 |
-| 3 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | 196,209 | 将 PDF、PPT、Word、Excel 等材料转换为便于检索和分析的 Markdown。 |
-| 4 | [langgenius/dify](https://github.com/langgenius/dify) | 161,388 | 搭建 AI 应用、知识库检索和 Agent 工作流的平台。 |
-| 5 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 144,984 | 汇集 AI Agent、技能与检索增强应用的示例代码。 |
-| 6 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | 121,357 | 让 AI 通过代码操作浏览器，完成网页上的多步任务。 |
-| 7 | [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 80,177 | 面向初学者的 AI Agent 课程与代码示例。 |
-| 8 | [astral-sh/ruff](https://github.com/astral-sh/ruff) | 51,405 | 检查 Python 代码中的常见问题并统一排版，规则可写入 pyproject.toml。 |
-| 9 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 37,571 | 记录 Agent 的模型调用与执行轨迹，支持成本观察、数据集实验和评测。 |
-| 10 | [louis-e/arnis](https://github.com/louis-e/arnis) | 18,698 | 用 OpenStreetMap 和高程数据生成 Minecraft 世界，重建街道、建筑与地形。 |
-| 11 | [pytest-dev/pytest](https://github.com/pytest-dev/pytest) | 14,695 | Python 测试框架，支持用简单断言编写测试，并复用测试准备步骤。 |
-| 12 | [Quarto-dev/quarto-cli](https://github.com/Quarto-dev/quarto-cli) | 6,190 | 基于 Pandoc 的技术出版工具，可将 Markdown 与代码、分析结果一起发布成文档、网站或书籍。 |
-| 13 | [marp-team/marp-cli](https://github.com/marp-team/marp-cli) | 3,938 | 将 Markdown 课件转为网页、PDF 或 PowerPoint。 |
-| 14 | [langchain-ai/openevals](https://github.com/langchain-ai/openevals) | 1,256 | 为 LLM 应用提供可复用的评估器，支持 Python 和 TypeScript。 |
+| 1 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 264,783 | 带记忆、工具调用和技能机制的通用 Agent。 |
+| 2 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | 211,449 | 把不同应用串成流程的可视化自动化平台，支持 AI 步骤和代码。 |
+| 3 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | 197,055 | 将 PDF、PPT、Word、Excel 等材料转换为便于检索和分析的 Markdown。 |
+| 4 | [langgenius/dify](https://github.com/langgenius/dify) | 161,533 | 搭建 AI 应用、知识库检索和 Agent 工作流的平台。 |
+| 5 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 145,093 | 汇集 AI Agent、技能与检索增强应用的示例代码。 |
+| 6 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | 135,986 | 手绘风格白板，可画流程图、概念图并导出 PNG、SVG 或可继续编辑的文件。 |
+| 7 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | 121,533 | 让 AI 通过代码操作浏览器，完成网页上的多步任务。 |
+| 8 | [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 80,511 | 面向初学者的 AI Agent 课程与代码示例。 |
+| 9 | [astral-sh/ruff](https://github.com/astral-sh/ruff) | 51,319 | 检查 Python 代码中的常见问题并统一排版，规则可写入 pyproject.toml。 |
+| 10 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 37,644 | 记录 Agent 的模型调用与执行轨迹，支持成本观察、数据集实验和评测。 |
+| 11 | [louis-e/arnis](https://github.com/louis-e/arnis) | 18,744 | 用 OpenStreetMap 和高程数据生成 Minecraft 世界，重建街道、建筑与地形。 |
+| 12 | [pytest-dev/pytest](https://github.com/pytest-dev/pytest) | 14,718 | Python 测试框架，支持用简单断言编写测试，并复用测试准备步骤。 |
+| 13 | [Quarto-dev/quarto-cli](https://github.com/Quarto-dev/quarto-cli) | 6,193 | 基于 Pandoc 的技术出版工具，可将 Markdown 与代码、分析结果一起发布成文档、网站或书籍。 |
+| 14 | [marp-team/marp-cli](https://github.com/marp-team/marp-cli) | 3,940 | 将 Markdown 课件转为网页、PDF 或 PowerPoint。 |
+| 15 | [langchain-ai/openevals](https://github.com/langchain-ai/openevals) | 1,257 | 为 LLM 应用提供可复用的评估器，支持 Python 和 TypeScript。 |
 
 ## Skills 推荐顺序
 
@@ -44,6 +45,6 @@
 
 仅统计技能所在仓库的 Star，不视为单个 Skill 的 Star
 
-两期累计 Star 快照相隔约 44.1 小时，上期采集于 2026-11-16T17:35:29+08:00。本轮未采用 Trending 数据。
+两期累计 Star 快照相隔约 46.0 小时，上期采集于 2026-11-18T13:44:06+08:00。本轮未采用 Trending 数据。
 
 核对仓库元数据、README 和各 Skill 的 SKILL.md；未安装或运行推荐项
