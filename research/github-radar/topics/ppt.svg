@@ -1,43 +1,43 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 797" role="img" aria-labelledby="title desc">
-<title id="title">PPT 相关仓库 · 累计 Star</title><desc id="desc">2026-11-20 / 精选样本；不是效果排名。hugohe3/ppt-master: 78,660 Stars；slidevjs/slidev: 49,574 Stars；iOfficeAI/OfficeCLI: 33,462 Stars；op7418/guizang-ppt-skill: 30,137 Stars；alchaincyf/huashu-design: 29,902 Stars；genspark-ai/genoffice: 12,660 Stars；presenton/presenton: 11,976 Stars；pipipi-pikachu/PPTist: 9,507 Stars；icip-cas/PPTAgent: 5,260 Stars</desc>
+<title id="title">PPT 相关仓库 · 累计 Star</title><desc id="desc">2026-11-28 / 精选样本；不是效果排名。hugohe3/ppt-master: 80,799 Stars；slidevjs/slidev: 49,662 Stars；iOfficeAI/OfficeCLI: 33,637 Stars；alchaincyf/huashu-design: 31,139 Stars；op7418/guizang-ppt-skill: 30,527 Stars；genspark-ai/genoffice: 13,047 Stars；presenton/presenton: 12,074 Stars；pipipi-pikachu/PPTist: 9,513 Stars；icip-cas/PPTAgent: 5,277 Stars</desc>
 <rect width="100%" height="100%" rx="20" fill="#f5f3ed"/>
 <g font-family="Segoe UI,Microsoft YaHei,Arial,sans-serif" fill="#152d35">
 <text x="28" y="42" font-size="25" font-weight="700">PPT 相关仓库 · 累计 Star</text>
-<text x="28" y="72" font-size="15" fill="#52676d">2026-11-20 / 精选样本；不是效果排名</text>
+<text x="28" y="72" font-size="15" fill="#52676d">2026-11-28 / 精选样本；不是效果排名</text>
 <text x="28" y="145" font-size="16">01  hugohe3/ppt-master</text>
 <rect x="395" y="125" width="460" height="30" rx="5" fill="#e0e5df"/>
 <rect x="395" y="125" width="460.0" height="30" rx="5" fill="#1c6970"/>
-<text x="875" y="146" font-size="17">78,660</text>
+<text x="875" y="146" font-size="17">80,799</text>
 <text x="28" y="215" font-size="16">02  slidevjs/slidev</text>
 <rect x="395" y="195" width="460" height="30" rx="5" fill="#e0e5df"/>
-<rect x="395" y="195" width="289.9" height="30" rx="5" fill="#40858a"/>
-<text x="875" y="216" font-size="17">49,574</text>
+<rect x="395" y="195" width="282.7" height="30" rx="5" fill="#40858a"/>
+<text x="875" y="216" font-size="17">49,662</text>
 <text x="28" y="285" font-size="16">03  iOfficeAI/OfficeCLI</text>
 <rect x="395" y="265" width="460" height="30" rx="5" fill="#e0e5df"/>
-<rect x="395" y="265" width="195.7" height="30" rx="5" fill="#639da0"/>
-<text x="875" y="286" font-size="17">33,462</text>
-<text x="28" y="355" font-size="16">04  op7418/guizang-ppt-skill</text>
+<rect x="395" y="265" width="191.5" height="30" rx="5" fill="#639da0"/>
+<text x="875" y="286" font-size="17">33,637</text>
+<text x="28" y="355" font-size="16">04  alchaincyf/huashu-design</text>
 <rect x="395" y="335" width="460" height="30" rx="5" fill="#e0e5df"/>
-<rect x="395" y="335" width="176.2" height="30" rx="5" fill="#639da0"/>
-<text x="875" y="356" font-size="17">30,137</text>
-<text x="28" y="425" font-size="16">05  alchaincyf/huashu-design</text>
+<rect x="395" y="335" width="177.3" height="30" rx="5" fill="#639da0"/>
+<text x="875" y="356" font-size="17">31,139</text>
+<text x="28" y="425" font-size="16">05  op7418/guizang-ppt-skill</text>
 <rect x="395" y="405" width="460" height="30" rx="5" fill="#e0e5df"/>
-<rect x="395" y="405" width="174.9" height="30" rx="5" fill="#639da0"/>
-<text x="875" y="426" font-size="17">29,902</text>
+<rect x="395" y="405" width="173.8" height="30" rx="5" fill="#639da0"/>
+<text x="875" y="426" font-size="17">30,527</text>
 <text x="28" y="495" font-size="16">06  genspark-ai/genoffice</text>
 <rect x="395" y="475" width="460" height="30" rx="5" fill="#e0e5df"/>
-<rect x="395" y="475" width="74.0" height="30" rx="5" fill="#639da0"/>
-<text x="875" y="496" font-size="17">12,660</text>
+<rect x="395" y="475" width="74.3" height="30" rx="5" fill="#639da0"/>
+<text x="875" y="496" font-size="17">13,047</text>
 <text x="28" y="565" font-size="16">07  presenton/presenton</text>
 <rect x="395" y="545" width="460" height="30" rx="5" fill="#e0e5df"/>
-<rect x="395" y="545" width="70.0" height="30" rx="5" fill="#639da0"/>
-<text x="875" y="566" font-size="17">11,976</text>
+<rect x="395" y="545" width="68.7" height="30" rx="5" fill="#639da0"/>
+<text x="875" y="566" font-size="17">12,074</text>
 <text x="28" y="635" font-size="16">08  pipipi-pikachu/PPTist</text>
 <rect x="395" y="615" width="460" height="30" rx="5" fill="#e0e5df"/>
-<rect x="395" y="615" width="55.6" height="30" rx="5" fill="#639da0"/>
-<text x="875" y="636" font-size="17">9,507</text>
+<rect x="395" y="615" width="54.2" height="30" rx="5" fill="#639da0"/>
+<text x="875" y="636" font-size="17">9,513</text>
 <text x="28" y="705" font-size="16">09  icip-cas/PPTAgent</text>
 <rect x="395" y="685" width="460" height="30" rx="5" fill="#e0e5df"/>
-<rect x="395" y="685" width="30.8" height="30" rx="5" fill="#639da0"/>
-<text x="875" y="706" font-size="17">5,260</text>
+<rect x="395" y="685" width="30.0" height="30" rx="5" fill="#639da0"/>
+<text x="875" y="706" font-size="17">5,277</text>
 </g></svg>
